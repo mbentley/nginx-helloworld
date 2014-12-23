@@ -1,7 +1,7 @@
 mbentley/nginx-helloworld
 ==========================
 
-Basic Hello World website to show build processes as a quick example w/nginx.
+Basic Hello World website to show build processes and CI with Jenkins as a quick example w/nginx to serve static HTML.
 
 ## Quick Steps
  - Edit `index.html`
